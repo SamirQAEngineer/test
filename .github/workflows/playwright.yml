@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 1. GitHub repozitoriyasını klonlamaq
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # 2. Node.js qurulması
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '16'
 
@@ -38,7 +38,7 @@ jobs:
 
       # 6. Allure reportu artifact kimi saxlamaq
       - name: Upload Allure Report as an artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: allure-report
           path: allure-report/
