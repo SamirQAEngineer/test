@@ -1,17 +1,15 @@
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
-  projects: [
-    {
-      name: 'test1',
-      use: {
-        browserName: 'chromium',
-        ...devices['Desktop Chrome'],
-      },
-    },
-  ],
+  testDir: './tests',  // Testlərin olduğu qovluğu göstəririk
   reporter: [
-    ['html'], // Default HTML reporter
-    ['allure-playwright'], // Allure reporter əlavə et
+    ['html'], // Default HTML report
+    ['allure-playwright'], // Allure report
   ],
+  use: {
+    headless: false, // Testləri browserdə işlədir
+    video: 'on-first-retry', // İlk uğursuzluqdan sonra video çəkmək
+    screenshot: 'only-on-failure', // Yalnız səhv olduqda screenshot almaq
+    trace: 'retain-on-failure', // Yalnız uğursuz olduqda trace saxlamaq
+  },
 });

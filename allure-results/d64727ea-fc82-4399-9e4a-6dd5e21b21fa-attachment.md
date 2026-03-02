@@ -1,0 +1,2631 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - iframe [ref=e3] [cursor=pointer]:
+    
+  - iframe [ref=e5] [cursor=pointer]:
+    
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "Tap.az" [ref=e11] [cursor=pointer]:
+            - /url: https://tap.az/?utm_source=turboaz&utm_medium=desktop-nav&utm_campaign=only-logo
+          - link "Bina.az" [ref=e12] [cursor=pointer]:
+            - /url: https://bina.az/?utm_source=turboaz&utm_medium=desktop-nav&utm_campaign=only-logo
+          - link "Boss.az" [ref=e13] [cursor=pointer]:
+            - /url: https://boss.az/?utm_source=turboaz&utm_medium=desktop-nav&utm_campaign=only-logo
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - text: "Dəstək:"
+            - link "(012) 526-47-47" [ref=e18]:
+              - /url: tel:(012) 526-47-47
+          - link "Yardım" [ref=e19] [cursor=pointer]:
+            - /url: /help/popular_questions
+          - link "RU" [ref=e20] [cursor=pointer]:
+            - /url: https://ru.turbo.az/
+          - link "Mesajlar" [ref=e22] [cursor=pointer]:
+            - /url: /#authentication
+            - img [ref=e24]
+            - generic [ref=e29]: Mesajlar
+          - link "Seçilmişlər" [ref=e30] [cursor=pointer]:
+            - /url: /bookmarks
+          - link "Giriş" [ref=e31] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e33]:
+        - link "TURBO.AZ" [ref=e34] [cursor=pointer]:
+          - /url: /
+          - heading "TURBO.AZ" [level=1] [ref=e35]
+        - link "Bütün elanlar" [ref=e36] [cursor=pointer]:
+          - /url: /autos
+        - link "Dilerlər" [ref=e37] [cursor=pointer]:
+          - /url: /avtosalonlar
+        - link "Avtokataloq" [ref=e38] [cursor=pointer]:
+          - /url: /autocatalog
+        - link "Moto" [ref=e39] [cursor=pointer]:
+          - /url: /motosiklet
+        - link "Ehtiyat hissələr və aksesuarlar" [ref=e41] [cursor=pointer]:
+          - /url: https://tap.az/elanlar/neqliyyat/ehtiyyat-hisseleri-ve-aksesuarlar?utm_source=turboaz&utm_medium=link&utm_content=accessories&utm_campaign=desktop
+        - link "İcarə" [ref=e43] [cursor=pointer]:
+          - /url: https://tap.az/elanlar/xidmetler/neqliyyat-icaresi?utm_source=turboaz&utm_medium=desktop&utm_campaign=rentacar&utm_id=header
+        - link "Yeni elan" [ref=e44] [cursor=pointer]:
+          - /url: /autos/new
+          - generic [ref=e45]: Yeni elan
+    - generic [ref=e46]:
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e51]:
+            - generic [ref=e52] [cursor=pointer]:
+              - textbox [active] [ref=e53]
+              - generic [ref=e54]: Markanı yazın
+            - generic [ref=e56]:
+              - generic [ref=e57] [cursor=pointer]: Sıfırla
+              - generic [ref=e60] [cursor=pointer]: Abarth
+              - generic [ref=e63] [cursor=pointer]: Acura
+              - generic [ref=e66] [cursor=pointer]: Alfa Romeo
+              - generic [ref=e69] [cursor=pointer]: Anyang Kinland
+              - generic [ref=e72] [cursor=pointer]: Arctic Cat
+              - generic [ref=e75] [cursor=pointer]: Aston Martin
+              - generic [ref=e78] [cursor=pointer]: ATV
+              - generic [ref=e81] [cursor=pointer]: Audi
+              - generic [ref=e84] [cursor=pointer]: Avatr
+              - generic [ref=e87] [cursor=pointer]: Avia
+              - generic [ref=e90] [cursor=pointer]: Baic
+              - generic [ref=e93] [cursor=pointer]: Bajaj
+              - generic [ref=e96] [cursor=pointer]: BAW
+              - generic [ref=e99] [cursor=pointer]: BENDA
+              - generic [ref=e102] [cursor=pointer]: Bentley
+              - generic [ref=e105] [cursor=pointer]: Bestune
+              - generic [ref=e108] [cursor=pointer]: BMC
+              - generic [ref=e111] [cursor=pointer]: BMW
+              - generic [ref=e114] [cursor=pointer]: BMW Alpina
+              - generic [ref=e117] [cursor=pointer]: Brilliance
+              - generic [ref=e120] [cursor=pointer]: BRP
+              - generic [ref=e123] [cursor=pointer]: Buick
+              - generic [ref=e126] [cursor=pointer]: BYD
+              - generic [ref=e129] [cursor=pointer]: C.Moto
+              - generic [ref=e132] [cursor=pointer]: Cadillac
+              - generic [ref=e135] [cursor=pointer]: Can-Am
+              - generic [ref=e138] [cursor=pointer]: Cevo
+              - generic [ref=e141] [cursor=pointer]: CFMOTO
+              - generic [ref=e144] [cursor=pointer]: Changan
+              - generic [ref=e147] [cursor=pointer]: Chery
+              - generic [ref=e150] [cursor=pointer]: Chevrolet
+              - generic [ref=e153] [cursor=pointer]: Chrysler
+              - generic [ref=e156] [cursor=pointer]: Citroen
+              - generic [ref=e159] [cursor=pointer]: Dacia
+              - generic [ref=e162] [cursor=pointer]: Daewoo
+              - generic [ref=e165] [cursor=pointer]: DAF
+              - generic [ref=e168] [cursor=pointer]: Daihatsu
+              - generic [ref=e171] [cursor=pointer]: Dayun
+              - generic [ref=e174] [cursor=pointer]: Denza
+              - generic [ref=e177] [cursor=pointer]: DFSK
+              - generic [ref=e180] [cursor=pointer]: Dnepr
+              - generic [ref=e183] [cursor=pointer]: Dodge
+              - generic [ref=e186] [cursor=pointer]: DongFeng
+              - generic [ref=e189] [cursor=pointer]: Ducati
+              - generic [ref=e192] [cursor=pointer]: FAW
+              - generic [ref=e195] [cursor=pointer]: Ferrari
+              - generic [ref=e198] [cursor=pointer]: Fiat
+              - generic [ref=e201] [cursor=pointer]: Ford
+              - generic [ref=e204] [cursor=pointer]: Forthing
+              - generic [ref=e207] [cursor=pointer]: Foton
+              - generic [ref=e210] [cursor=pointer]: Freedom
+              - generic [ref=e213] [cursor=pointer]: FY
+              - generic [ref=e216] [cursor=pointer]: GAC
+              - generic [ref=e219] [cursor=pointer]: GAZ
+              - generic [ref=e222] [cursor=pointer]: Geely
+              - generic [ref=e225] [cursor=pointer]: Genesis
+              - generic [ref=e228] [cursor=pointer]: GMC
+              - generic [ref=e231] [cursor=pointer]: Golden Dragon
+              - generic [ref=e234] [cursor=pointer]: Grandmoto
+              - generic [ref=e237] [cursor=pointer]: GST
+              - generic [ref=e240] [cursor=pointer]: GWM (Great Wall Motor)
+              - generic [ref=e243] [cursor=pointer]: Haojue
+              - generic [ref=e246] [cursor=pointer]: Harley-Davidson
+              - generic [ref=e249] [cursor=pointer]: Haval
+              - generic [ref=e252] [cursor=pointer]: Honda
+              - generic [ref=e255] [cursor=pointer]: Hongqi
+              - generic [ref=e258] [cursor=pointer]: HOWO
+              - generic [ref=e261] [cursor=pointer]: Hummer
+              - generic [ref=e264] [cursor=pointer]: Hycan
+              - generic [ref=e267] [cursor=pointer]: Hyundai
+              - generic [ref=e270] [cursor=pointer]: iCar
+              - generic [ref=e273] [cursor=pointer]: iHonzda
+              - generic [ref=e276] [cursor=pointer]: IJ
+              - generic [ref=e279] [cursor=pointer]: IM
+              - generic [ref=e282] [cursor=pointer]: Indian Motorcycle
+              - generic [ref=e285] [cursor=pointer]: Infiniti
+              - generic [ref=e288] [cursor=pointer]: Iran Khodro
+              - generic [ref=e291] [cursor=pointer]: Isuzu
+              - generic [ref=e294] [cursor=pointer]: Iveco
+              - generic [ref=e297] [cursor=pointer]: JAC
+              - generic [ref=e300] [cursor=pointer]: Jaguar
+              - generic [ref=e303] [cursor=pointer]: Jeep
+              - generic [ref=e306] [cursor=pointer]: JETOUR
+              - generic [ref=e309] [cursor=pointer]: Jiangmen
+              - generic [ref=e312] [cursor=pointer]: Jianshe
+              - generic [ref=e315] [cursor=pointer]: JIM
+              - generic [ref=e318] [cursor=pointer]: JMC
+              - generic [ref=e321] [cursor=pointer]: KAIYI
+              - generic [ref=e324] [cursor=pointer]: KamAz
+              - generic [ref=e327] [cursor=pointer]: Kanuni
+              - generic [ref=e330] [cursor=pointer]: Karry
+              - generic [ref=e333] [cursor=pointer]: Kavaki
+              - generic [ref=e336] [cursor=pointer]: Kawasaki
+              - generic [ref=e339] [cursor=pointer]: Kayo
+              - generic [ref=e342] [cursor=pointer]: KG Mobility
+              - generic [ref=e345] [cursor=pointer]: Khazar
+              - generic [ref=e348] [cursor=pointer]: Kia
+              - generic [ref=e351] [cursor=pointer]: King Long
+              - generic [ref=e354] [cursor=pointer]: Kinroad
+              - generic [ref=e357] [cursor=pointer]: KrAZ
+              - generic [ref=e360] [cursor=pointer]: KTM
+              - generic [ref=e363] [cursor=pointer]: Kuba
+              - generic [ref=e366] [cursor=pointer]: KYC
+              - generic [ref=e369] [cursor=pointer]: LADA (VAZ)
+              - generic [ref=e372] [cursor=pointer]: Lamborghini
+              - generic [ref=e375] [cursor=pointer]: Land Rover
+              - generic [ref=e378] [cursor=pointer]: Leapmotor
+              - generic [ref=e381] [cursor=pointer]: Lexus
+              - generic [ref=e384] [cursor=pointer]: Li Auto
+              - generic [ref=e387] [cursor=pointer]: Lifan
+              - generic [ref=e390] [cursor=pointer]: Lincoln
+              - generic [ref=e393] [cursor=pointer]: Lotus
+              - generic [ref=e396] [cursor=pointer]: LuAz
+              - generic [ref=e399] [cursor=pointer]: Lynk & Co
+              - generic [ref=e402] [cursor=pointer]: M-Hero
+              - generic [ref=e405] [cursor=pointer]: Mack
+              - generic [ref=e408] [cursor=pointer]: Maextro
+              - generic [ref=e411] [cursor=pointer]: MAN
+              - generic [ref=e414] [cursor=pointer]: Maple
+              - generic [ref=e417] [cursor=pointer]: Marshal
+              - generic [ref=e420] [cursor=pointer]: Maserati
+              - generic [ref=e423] [cursor=pointer]: MAZ
+              - generic [ref=e426] [cursor=pointer]: Mazda
+              - generic [ref=e429] [cursor=pointer]: Mercedes
+              - generic [ref=e432] [cursor=pointer]: Mercedes-Maybach
+              - generic [ref=e435] [cursor=pointer]: Mercury
+              - generic [ref=e438] [cursor=pointer]: MG
+              - generic [ref=e441] [cursor=pointer]: Mini
+              - generic [ref=e444] [cursor=pointer]: Minsk
+              - generic [ref=e447] [cursor=pointer]: Mitsubishi
+              - generic [ref=e450] [cursor=pointer]: Mondial
+              - generic [ref=e453] [cursor=pointer]: Moskvich
+              - generic [ref=e456] [cursor=pointer]: Moto Guzzi
+              - generic [ref=e459] [cursor=pointer]: Muravey
+              - generic [ref=e462] [cursor=pointer]: Nama
+              - generic [ref=e465] [cursor=pointer]: Neta
+              - generic [ref=e468] [cursor=pointer]: Nio
+              - generic [ref=e471] [cursor=pointer]: Nissan
+              - generic [ref=e474] [cursor=pointer]: NIU
+              - generic [ref=e477] [cursor=pointer]: Omoda Jaecoo
+              - generic [ref=e480] [cursor=pointer]: Opel
+              - generic [ref=e483] [cursor=pointer]: PAZ
+              - generic [ref=e486] [cursor=pointer]: Peugeot
+              - generic [ref=e489] [cursor=pointer]: Piaggio
+              - generic [ref=e492] [cursor=pointer]: Polaris
+              - generic [ref=e495] [cursor=pointer]: Polestar
+              - generic [ref=e498] [cursor=pointer]: Pontiac
+              - generic [ref=e501] [cursor=pointer]: Porsche
+              - generic [ref=e504] [cursor=pointer]: QJMotor
+              - generic [ref=e507] [cursor=pointer]: Radar
+              - generic [ref=e510] [cursor=pointer]: RAF
+              - generic [ref=e513] [cursor=pointer]: Ravon
+              - generic [ref=e516] [cursor=pointer]: Renault
+              - generic [ref=e519] [cursor=pointer]: Renault Samsung
+              - generic [ref=e522] [cursor=pointer]: RKS
+              - generic [ref=e525] [cursor=pointer]: Roewe
+              - generic [ref=e528] [cursor=pointer]: Rolls-Royce
+              - generic [ref=e531] [cursor=pointer]: Rover
+              - generic [ref=e534] [cursor=pointer]: ROX (Polar Stone)
+              - generic [ref=e537] [cursor=pointer]: Royal Enfield
+              - generic [ref=e540] [cursor=pointer]: Saab
+              - generic [ref=e543] [cursor=pointer]: Saipa
+              - generic [ref=e546] [cursor=pointer]: SamAuto
+              - generic [ref=e549] [cursor=pointer]: Saturn
+              - generic [ref=e552] [cursor=pointer]: Scania
+              - generic [ref=e555] [cursor=pointer]: SEAT
+              - generic [ref=e558] [cursor=pointer]: Seres Aito
+              - generic [ref=e561] [cursor=pointer]: Setra
+              - generic [ref=e564] [cursor=pointer]: Shacman
+              - generic [ref=e567] [cursor=pointer]: Shaolin
+              - generic [ref=e570] [cursor=pointer]: Sharmax
+              - generic [ref=e573] [cursor=pointer]: Skoda
+              - generic [ref=e576] [cursor=pointer]: Skywell
+              - generic [ref=e579] [cursor=pointer]: Smart
+              - generic [ref=e582] [cursor=pointer]: Soueast
+              - generic [ref=e585] [cursor=pointer]: Ssang Yong
+              - generic [ref=e588] [cursor=pointer]: Subaru
+              - generic [ref=e591] [cursor=pointer]: Suzuki
+              - generic [ref=e594] [cursor=pointer]: Temsa
+              - generic [ref=e597] [cursor=pointer]: Tesla
+              - generic [ref=e600] [cursor=pointer]: Tofas
+              - generic [ref=e603] [cursor=pointer]: Toyota
+              - generic [ref=e606] [cursor=pointer]: Triumph
+              - generic [ref=e609] [cursor=pointer]: Tufan
+              - generic [ref=e612] [cursor=pointer]: TVS
+              - generic [ref=e615] [cursor=pointer]: UAZ
+              - generic [ref=e618] [cursor=pointer]: Ural
+              - generic [ref=e621] [cursor=pointer]: Vespa
+              - generic [ref=e624] [cursor=pointer]: VGV
+              - generic [ref=e627] [cursor=pointer]: Victoria
+              - generic [ref=e630] [cursor=pointer]: Voge
+              - generic [ref=e633] [cursor=pointer]: Volkswagen
+              - generic [ref=e636] [cursor=pointer]: Volta
+              - generic [ref=e639] [cursor=pointer]: Volvo
+              - generic [ref=e642] [cursor=pointer]: Voyah
+              - generic [ref=e645] [cursor=pointer]: Wanfeng
+              - generic [ref=e648] [cursor=pointer]: Wuling
+              - generic [ref=e651] [cursor=pointer]: Xiaomi
+              - generic [ref=e654] [cursor=pointer]: XPeng
+              - generic [ref=e657] [cursor=pointer]: Yadea
+              - generic [ref=e660] [cursor=pointer]: Yamaha
+              - generic [ref=e663] [cursor=pointer]: Yuejin
+              - generic [ref=e666] [cursor=pointer]: Yutong
+              - generic [ref=e669] [cursor=pointer]: ZAZ
+              - generic [ref=e672] [cursor=pointer]: Zaza
+              - generic [ref=e675] [cursor=pointer]: ZEEKR
+              - generic [ref=e678] [cursor=pointer]: ZIL
+              - generic [ref=e681] [cursor=pointer]: Zonsen
+              - generic [ref=e684] [cursor=pointer]: Zontes
+              - generic [ref=e687] [cursor=pointer]: ZX Auto
+              - generic [ref=e690] [cursor=pointer]: ZXMCO
+          - generic [ref=e692]:
+            - generic:
+              - generic: Model
+            - generic:
+              - generic:
+                - generic: Sıfırla
+          - generic [ref=e694]:
+            - generic [ref=e695] [cursor=pointer]: Hamısı
+            - generic [ref=e696] [cursor=pointer]: Yeni
+            - generic [ref=e697] [cursor=pointer]: Sürülmüş
+          - generic [ref=e699]:
+            - generic [ref=e701] [cursor=pointer]: Şəhər
+            - generic:
+              - generic:
+                - generic: Sıfırla
+                - generic:
+                  - generic:
+                    - generic: Ağcabədi
+                - generic:
+                  - generic:
+                    - generic: Ağdam
+                - generic:
+                  - generic:
+                    - generic: Ağdaş
+                - generic:
+                  - generic:
+                    - generic: Ağstafa
+                - generic:
+                  - generic:
+                    - generic: Ağsu
+                - generic:
+                  - generic:
+                    - generic: Astara
+                - generic:
+                  - generic:
+                    - generic: Babək
+                - generic:
+                  - generic:
+                    - generic: Bakı
+                - generic:
+                  - generic:
+                    - generic: Balakən
+                - generic:
+                  - generic:
+                    - generic: Beyləqan
+                - generic:
+                  - generic:
+                    - generic: Bərdə
+                - generic:
+                  - generic:
+                    - generic: Biləsuvar
+                - generic:
+                  - generic:
+                    - generic: Cəbrayıl
+                - generic:
+                  - generic:
+                    - generic: Cəlilabad
+                - generic:
+                  - generic:
+                    - generic: Daşkəsən
+                - generic:
+                  - generic:
+                    - generic: Dəliməmmədli
+                - generic:
+                  - generic:
+                    - generic: Füzuli
+                - generic:
+                  - generic:
+                    - generic: Gədəbəy
+                - generic:
+                  - generic:
+                    - generic: Gəncə
+                - generic:
+                  - generic:
+                    - generic: Goranboy
+                - generic:
+                  - generic:
+                    - generic: Göyçay
+                - generic:
+                  - generic:
+                    - generic: Göygöl
+                - generic:
+                  - generic:
+                    - generic: Hacıqabul
+                - generic:
+                  - generic:
+                    - generic: İmişli
+                - generic:
+                  - generic:
+                    - generic: İsmayıllı
+                - generic:
+                  - generic:
+                    - generic: Kürdəmir
+                - generic:
+                  - generic:
+                    - generic: Laçın
+                - generic:
+                  - generic:
+                    - generic: Lerik
+                - generic:
+                  - generic:
+                    - generic: Lənkəran
+                - generic:
+                  - generic:
+                    - generic: Masallı
+                - generic:
+                  - generic:
+                    - generic: Mingəçevir
+                - generic:
+                  - generic:
+                    - generic: Naftalan
+                - generic:
+                  - generic:
+                    - generic: Naxçıvan
+                - generic:
+                  - generic:
+                    - generic: Neftçala
+                - generic:
+                  - generic:
+                    - generic: Oğuz
+                - generic:
+                  - generic:
+                    - generic: Ordubad
+                - generic:
+                  - generic:
+                    - generic: Qax
+                - generic:
+                  - generic:
+                    - generic: Qazax
+                - generic:
+                  - generic:
+                    - generic: Qəbələ
+                - generic:
+                  - generic:
+                    - generic: Qobustan
+                - generic:
+                  - generic:
+                    - generic: Quba
+                - generic:
+                  - generic:
+                    - generic: Qubadlı
+                - generic:
+                  - generic:
+                    - generic: Qusar
+                - generic:
+                  - generic:
+                    - generic: Saatlı
+                - generic:
+                  - generic:
+                    - generic: Sabirabad
+                - generic:
+                  - generic:
+                    - generic: Şabran
+                - generic:
+                  - generic:
+                    - generic: Salyan
+                - generic:
+                  - generic:
+                    - generic: Şamaxı
+                - generic:
+                  - generic:
+                    - generic: Samux
+                - generic:
+                  - generic:
+                    - generic: Şəki
+                - generic:
+                  - generic:
+                    - generic: Şəmkir
+                - generic:
+                  - generic:
+                    - generic: Şirvan
+                - generic:
+                  - generic:
+                    - generic: Siyəzən
+                - generic:
+                  - generic:
+                    - generic: Sumqayıt
+                - generic:
+                  - generic:
+                    - generic: Tərtər
+                - generic:
+                  - generic:
+                    - generic: Tovuz
+                - generic:
+                  - generic:
+                    - generic: Ucar
+                - generic:
+                  - generic:
+                    - generic: Xaçmaz
+                - generic:
+                  - generic:
+                    - generic: Xankəndi
+                - generic:
+                  - generic:
+                    - generic: Xırdalan
+                - generic:
+                  - generic:
+                    - generic: Xızı
+                - generic:
+                  - generic:
+                    - generic: Xocavənd
+                - generic:
+                  - generic:
+                    - generic: Xudat
+                - generic:
+                  - generic:
+                    - generic: Yardımlı
+                - generic:
+                  - generic:
+                    - generic: Yevlax
+                - generic:
+                  - generic:
+                    - generic: Zaqatala
+                - generic:
+                  - generic:
+                    - generic: Zəngilan
+                - generic:
+                  - generic:
+                    - generic: Zərdab
+        - generic [ref=e702]:
+          - generic [ref=e704]:
+            - generic [ref=e706]:
+              - textbox "Qiymət, min." [ref=e707]:
+                - /placeholder: " "
+              - generic [ref=e708]: Qiymət, min.
+            - generic [ref=e710]:
+              - textbox "maks." [ref=e711]:
+                - /placeholder: " "
+              - generic [ref=e712]: maks.
+          - generic [ref=e713]:
+            - generic [ref=e715]:
+              - generic [ref=e717] [cursor=pointer]: AZN
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: AZN
+                  - generic:
+                    - generic:
+                      - generic: USD
+                  - generic:
+                    - generic:
+                      - generic: EUR
+            - generic [ref=e719] [cursor=pointer]: Kredit
+            - generic [ref=e721] [cursor=pointer]: Barter
+          - generic [ref=e723]:
+            - generic [ref=e725] [cursor=pointer]: Ban növü
+            - generic:
+              - generic:
+                - generic: Sıfırla
+                - generic:
+                  - generic:
+                    - generic: Avtobus
+                - generic:
+                  - generic:
+                    - generic: Avtokran
+                - generic:
+                  - generic:
+                    - generic: Dartqı
+                - generic:
+                  - generic:
+                    - generic: Fastbek
+                - generic:
+                  - generic:
+                    - generic: Fayton
+                - generic:
+                  - generic:
+                    - generic: Furqon
+                - generic:
+                  - generic:
+                    - generic: Hetçbek, 3 qapı
+                - generic:
+                  - generic:
+                    - generic: Hetçbek, 4 qapı
+                - generic:
+                  - generic:
+                    - generic: Hetçbek, 5 qapı
+                - generic:
+                  - generic:
+                    - generic: Kabriolet
+                - generic:
+                  - generic:
+                    - generic: Karvan
+                - generic:
+                  - generic:
+                    - generic: Kompakt-Van
+                - generic:
+                  - generic:
+                    - generic: Kupe
+                - generic:
+                  - generic:
+                    - generic: Kvadrosikl
+                - generic:
+                  - generic:
+                    - generic: Liftbek
+                - generic:
+                  - generic:
+                    - generic: Limuzin
+                - generic:
+                  - generic:
+                    - generic: Mikroavtobus
+                - generic:
+                  - generic:
+                    - generic: Mikrovan
+                - generic:
+                  - generic:
+                    - generic: Minivan
+                - generic:
+                  - generic:
+                    - generic: Moped
+                - generic:
+                  - generic:
+                    - generic: Motosiklet
+                - generic:
+                  - generic:
+                    - generic: Offroader / SUV, 3 qapı
+                - generic:
+                  - generic:
+                    - generic: Offroader / SUV, 5 qapı
+                - generic:
+                  - generic:
+                    - generic: Offroader / SUV, açıq
+                - generic:
+                  - generic:
+                    - generic: Pikap, bir yarım kabin
+                - generic:
+                  - generic:
+                    - generic: Pikap, ikiqat kabin
+                - generic:
+                  - generic:
+                    - generic: Pikap, tək kabin
+                - generic:
+                  - generic:
+                    - generic: Qolfkar
+                - generic:
+                  - generic:
+                    - generic: Rodster
+                - generic:
+                  - generic:
+                    - generic: Sedan
+                - generic:
+                  - generic:
+                    - generic: Skuter
+                - generic:
+                  - generic:
+                    - generic: Spidster
+                - generic:
+                  - generic:
+                    - generic: SUV Kupe
+                - generic:
+                  - generic:
+                    - generic: Tarqa
+                - generic:
+                  - generic:
+                    - generic: Universal, 3 qapı
+                - generic:
+                  - generic:
+                    - generic: Universal, 5 qapı
+                - generic:
+                  - generic:
+                    - generic: Van
+                - generic:
+                  - generic:
+                    - generic: Yük maşını
+          - generic [ref=e727]:
+            - generic [ref=e729]:
+              - generic [ref=e731] [cursor=pointer]: İl, min.
+              - generic:
+                - generic:
+                  - generic: Sıfırla
+                  - generic:
+                    - generic:
+                      - generic: "2026"
+                  - generic:
+                    - generic:
+                      - generic: "2025"
+                  - generic:
+                    - generic:
+                      - generic: "2024"
+                  - generic:
+                    - generic:
+                      - generic: "2023"
+                  - generic:
+                    - generic:
+                      - generic: "2022"
+                  - generic:
+                    - generic:
+                      - generic: "2021"
+                  - generic:
+                    - generic:
+                      - generic: "2020"
+                  - generic:
+                    - generic:
+                      - generic: "2019"
+                  - generic:
+                    - generic:
+                      - generic: "2018"
+                  - generic:
+                    - generic:
+                      - generic: "2017"
+                  - generic:
+                    - generic:
+                      - generic: "2016"
+                  - generic:
+                    - generic:
+                      - generic: "2015"
+                  - generic:
+                    - generic:
+                      - generic: "2014"
+                  - generic:
+                    - generic:
+                      - generic: "2013"
+                  - generic:
+                    - generic:
+                      - generic: "2012"
+                  - generic:
+                    - generic:
+                      - generic: "2011"
+                  - generic:
+                    - generic:
+                      - generic: "2010"
+                  - generic:
+                    - generic:
+                      - generic: "2009"
+                  - generic:
+                    - generic:
+                      - generic: "2008"
+                  - generic:
+                    - generic:
+                      - generic: "2007"
+                  - generic:
+                    - generic:
+                      - generic: "2006"
+                  - generic:
+                    - generic:
+                      - generic: "2005"
+                  - generic:
+                    - generic:
+                      - generic: "2004"
+                  - generic:
+                    - generic:
+                      - generic: "2003"
+                  - generic:
+                    - generic:
+                      - generic: "2002"
+                  - generic:
+                    - generic:
+                      - generic: "2001"
+                  - generic:
+                    - generic:
+                      - generic: "2000"
+                  - generic:
+                    - generic:
+                      - generic: "1999"
+                  - generic:
+                    - generic:
+                      - generic: "1998"
+                  - generic:
+                    - generic:
+                      - generic: "1997"
+                  - generic:
+                    - generic:
+                      - generic: "1996"
+                  - generic:
+                    - generic:
+                      - generic: "1995"
+                  - generic:
+                    - generic:
+                      - generic: "1994"
+                  - generic:
+                    - generic:
+                      - generic: "1993"
+                  - generic:
+                    - generic:
+                      - generic: "1992"
+                  - generic:
+                    - generic:
+                      - generic: "1991"
+                  - generic:
+                    - generic:
+                      - generic: "1990"
+                  - generic:
+                    - generic:
+                      - generic: "1989"
+                  - generic:
+                    - generic:
+                      - generic: "1988"
+                  - generic:
+                    - generic:
+                      - generic: "1987"
+                  - generic:
+                    - generic:
+                      - generic: "1986"
+                  - generic:
+                    - generic:
+                      - generic: "1985"
+                  - generic:
+                    - generic:
+                      - generic: "1984"
+                  - generic:
+                    - generic:
+                      - generic: "1983"
+                  - generic:
+                    - generic:
+                      - generic: "1982"
+                  - generic:
+                    - generic:
+                      - generic: "1981"
+                  - generic:
+                    - generic:
+                      - generic: "1980"
+                  - generic:
+                    - generic:
+                      - generic: "1979"
+                  - generic:
+                    - generic:
+                      - generic: "1978"
+                  - generic:
+                    - generic:
+                      - generic: "1977"
+                  - generic:
+                    - generic:
+                      - generic: "1976"
+                  - generic:
+                    - generic:
+                      - generic: "1975"
+                  - generic:
+                    - generic:
+                      - generic: "1974"
+                  - generic:
+                    - generic:
+                      - generic: "1973"
+                  - generic:
+                    - generic:
+                      - generic: "1972"
+                  - generic:
+                    - generic:
+                      - generic: "1971"
+                  - generic:
+                    - generic:
+                      - generic: "1970"
+                  - generic:
+                    - generic:
+                      - generic: "1969"
+                  - generic:
+                    - generic:
+                      - generic: "1968"
+                  - generic:
+                    - generic:
+                      - generic: "1967"
+                  - generic:
+                    - generic:
+                      - generic: "1966"
+                  - generic:
+                    - generic:
+                      - generic: "1965"
+                  - generic:
+                    - generic:
+                      - generic: "1964"
+                  - generic:
+                    - generic:
+                      - generic: "1963"
+                  - generic:
+                    - generic:
+                      - generic: "1962"
+                  - generic:
+                    - generic:
+                      - generic: "1961"
+                  - generic:
+                    - generic:
+                      - generic: "1960"
+                  - generic:
+                    - generic:
+                      - generic: "1959"
+                  - generic:
+                    - generic:
+                      - generic: "1958"
+                  - generic:
+                    - generic:
+                      - generic: "1957"
+                  - generic:
+                    - generic:
+                      - generic: "1956"
+                  - generic:
+                    - generic:
+                      - generic: "1955"
+                  - generic:
+                    - generic:
+                      - generic: "1954"
+                  - generic:
+                    - generic:
+                      - generic: "1953"
+                  - generic:
+                    - generic:
+                      - generic: "1952"
+                  - generic:
+                    - generic:
+                      - generic: "1951"
+                  - generic:
+                    - generic:
+                      - generic: "1950"
+                  - generic:
+                    - generic:
+                      - generic: "1949"
+                  - generic:
+                    - generic:
+                      - generic: "1948"
+                  - generic:
+                    - generic:
+                      - generic: "1947"
+                  - generic:
+                    - generic:
+                      - generic: "1946"
+                  - generic:
+                    - generic:
+                      - generic: "1945"
+                  - generic:
+                    - generic:
+                      - generic: "1944"
+                  - generic:
+                    - generic:
+                      - generic: "1943"
+                  - generic:
+                    - generic:
+                      - generic: "1942"
+                  - generic:
+                    - generic:
+                      - generic: "1941"
+                  - generic:
+                    - generic:
+                      - generic: "1940"
+                  - generic:
+                    - generic:
+                      - generic: "1939"
+                  - generic:
+                    - generic:
+                      - generic: "1938"
+                  - generic:
+                    - generic:
+                      - generic: "1937"
+                  - generic:
+                    - generic:
+                      - generic: "1936"
+                  - generic:
+                    - generic:
+                      - generic: "1935"
+                  - generic:
+                    - generic:
+                      - generic: "1934"
+                  - generic:
+                    - generic:
+                      - generic: "1933"
+                  - generic:
+                    - generic:
+                      - generic: "1932"
+                  - generic:
+                    - generic:
+                      - generic: "1931"
+                  - generic:
+                    - generic:
+                      - generic: "1930"
+                  - generic:
+                    - generic:
+                      - generic: "1929"
+                  - generic:
+                    - generic:
+                      - generic: "1928"
+                  - generic:
+                    - generic:
+                      - generic: "1927"
+                  - generic:
+                    - generic:
+                      - generic: "1926"
+                  - generic:
+                    - generic:
+                      - generic: "1925"
+                  - generic:
+                    - generic:
+                      - generic: "1924"
+                  - generic:
+                    - generic:
+                      - generic: "1923"
+                  - generic:
+                    - generic:
+                      - generic: "1922"
+                  - generic:
+                    - generic:
+                      - generic: "1921"
+                  - generic:
+                    - generic:
+                      - generic: "1920"
+                  - generic:
+                    - generic:
+                      - generic: "1919"
+                  - generic:
+                    - generic:
+                      - generic: "1918"
+                  - generic:
+                    - generic:
+                      - generic: "1917"
+                  - generic:
+                    - generic:
+                      - generic: "1916"
+                  - generic:
+                    - generic:
+                      - generic: "1915"
+                  - generic:
+                    - generic:
+                      - generic: "1914"
+                  - generic:
+                    - generic:
+                      - generic: "1913"
+                  - generic:
+                    - generic:
+                      - generic: "1912"
+                  - generic:
+                    - generic:
+                      - generic: "1911"
+                  - generic:
+                    - generic:
+                      - generic: "1910"
+                  - generic:
+                    - generic:
+                      - generic: "1909"
+                  - generic:
+                    - generic:
+                      - generic: "1908"
+                  - generic:
+                    - generic:
+                      - generic: "1907"
+                  - generic:
+                    - generic:
+                      - generic: "1906"
+            - generic [ref=e733]:
+              - generic [ref=e735] [cursor=pointer]: maks.
+              - generic:
+                - generic:
+                  - generic: Sıfırla
+                  - generic:
+                    - generic:
+                      - generic: "2026"
+                  - generic:
+                    - generic:
+                      - generic: "2025"
+                  - generic:
+                    - generic:
+                      - generic: "2024"
+                  - generic:
+                    - generic:
+                      - generic: "2023"
+                  - generic:
+                    - generic:
+                      - generic: "2022"
+                  - generic:
+                    - generic:
+                      - generic: "2021"
+                  - generic:
+                    - generic:
+                      - generic: "2020"
+                  - generic:
+                    - generic:
+                      - generic: "2019"
+                  - generic:
+                    - generic:
+                      - generic: "2018"
+                  - generic:
+                    - generic:
+                      - generic: "2017"
+                  - generic:
+                    - generic:
+                      - generic: "2016"
+                  - generic:
+                    - generic:
+                      - generic: "2015"
+                  - generic:
+                    - generic:
+                      - generic: "2014"
+                  - generic:
+                    - generic:
+                      - generic: "2013"
+                  - generic:
+                    - generic:
+                      - generic: "2012"
+                  - generic:
+                    - generic:
+                      - generic: "2011"
+                  - generic:
+                    - generic:
+                      - generic: "2010"
+                  - generic:
+                    - generic:
+                      - generic: "2009"
+                  - generic:
+                    - generic:
+                      - generic: "2008"
+                  - generic:
+                    - generic:
+                      - generic: "2007"
+                  - generic:
+                    - generic:
+                      - generic: "2006"
+                  - generic:
+                    - generic:
+                      - generic: "2005"
+                  - generic:
+                    - generic:
+                      - generic: "2004"
+                  - generic:
+                    - generic:
+                      - generic: "2003"
+                  - generic:
+                    - generic:
+                      - generic: "2002"
+                  - generic:
+                    - generic:
+                      - generic: "2001"
+                  - generic:
+                    - generic:
+                      - generic: "2000"
+                  - generic:
+                    - generic:
+                      - generic: "1999"
+                  - generic:
+                    - generic:
+                      - generic: "1998"
+                  - generic:
+                    - generic:
+                      - generic: "1997"
+                  - generic:
+                    - generic:
+                      - generic: "1996"
+                  - generic:
+                    - generic:
+                      - generic: "1995"
+                  - generic:
+                    - generic:
+                      - generic: "1994"
+                  - generic:
+                    - generic:
+                      - generic: "1993"
+                  - generic:
+                    - generic:
+                      - generic: "1992"
+                  - generic:
+                    - generic:
+                      - generic: "1991"
+                  - generic:
+                    - generic:
+                      - generic: "1990"
+                  - generic:
+                    - generic:
+                      - generic: "1989"
+                  - generic:
+                    - generic:
+                      - generic: "1988"
+                  - generic:
+                    - generic:
+                      - generic: "1987"
+                  - generic:
+                    - generic:
+                      - generic: "1986"
+                  - generic:
+                    - generic:
+                      - generic: "1985"
+                  - generic:
+                    - generic:
+                      - generic: "1984"
+                  - generic:
+                    - generic:
+                      - generic: "1983"
+                  - generic:
+                    - generic:
+                      - generic: "1982"
+                  - generic:
+                    - generic:
+                      - generic: "1981"
+                  - generic:
+                    - generic:
+                      - generic: "1980"
+                  - generic:
+                    - generic:
+                      - generic: "1979"
+                  - generic:
+                    - generic:
+                      - generic: "1978"
+                  - generic:
+                    - generic:
+                      - generic: "1977"
+                  - generic:
+                    - generic:
+                      - generic: "1976"
+                  - generic:
+                    - generic:
+                      - generic: "1975"
+                  - generic:
+                    - generic:
+                      - generic: "1974"
+                  - generic:
+                    - generic:
+                      - generic: "1973"
+                  - generic:
+                    - generic:
+                      - generic: "1972"
+                  - generic:
+                    - generic:
+                      - generic: "1971"
+                  - generic:
+                    - generic:
+                      - generic: "1970"
+                  - generic:
+                    - generic:
+                      - generic: "1969"
+                  - generic:
+                    - generic:
+                      - generic: "1968"
+                  - generic:
+                    - generic:
+                      - generic: "1967"
+                  - generic:
+                    - generic:
+                      - generic: "1966"
+                  - generic:
+                    - generic:
+                      - generic: "1965"
+                  - generic:
+                    - generic:
+                      - generic: "1964"
+                  - generic:
+                    - generic:
+                      - generic: "1963"
+                  - generic:
+                    - generic:
+                      - generic: "1962"
+                  - generic:
+                    - generic:
+                      - generic: "1961"
+                  - generic:
+                    - generic:
+                      - generic: "1960"
+                  - generic:
+                    - generic:
+                      - generic: "1959"
+                  - generic:
+                    - generic:
+                      - generic: "1958"
+                  - generic:
+                    - generic:
+                      - generic: "1957"
+                  - generic:
+                    - generic:
+                      - generic: "1956"
+                  - generic:
+                    - generic:
+                      - generic: "1955"
+                  - generic:
+                    - generic:
+                      - generic: "1954"
+                  - generic:
+                    - generic:
+                      - generic: "1953"
+                  - generic:
+                    - generic:
+                      - generic: "1952"
+                  - generic:
+                    - generic:
+                      - generic: "1951"
+                  - generic:
+                    - generic:
+                      - generic: "1950"
+                  - generic:
+                    - generic:
+                      - generic: "1949"
+                  - generic:
+                    - generic:
+                      - generic: "1948"
+                  - generic:
+                    - generic:
+                      - generic: "1947"
+                  - generic:
+                    - generic:
+                      - generic: "1946"
+                  - generic:
+                    - generic:
+                      - generic: "1945"
+                  - generic:
+                    - generic:
+                      - generic: "1944"
+                  - generic:
+                    - generic:
+                      - generic: "1943"
+                  - generic:
+                    - generic:
+                      - generic: "1942"
+                  - generic:
+                    - generic:
+                      - generic: "1941"
+                  - generic:
+                    - generic:
+                      - generic: "1940"
+                  - generic:
+                    - generic:
+                      - generic: "1939"
+                  - generic:
+                    - generic:
+                      - generic: "1938"
+                  - generic:
+                    - generic:
+                      - generic: "1937"
+                  - generic:
+                    - generic:
+                      - generic: "1936"
+                  - generic:
+                    - generic:
+                      - generic: "1935"
+                  - generic:
+                    - generic:
+                      - generic: "1934"
+                  - generic:
+                    - generic:
+                      - generic: "1933"
+                  - generic:
+                    - generic:
+                      - generic: "1932"
+                  - generic:
+                    - generic:
+                      - generic: "1931"
+                  - generic:
+                    - generic:
+                      - generic: "1930"
+                  - generic:
+                    - generic:
+                      - generic: "1929"
+                  - generic:
+                    - generic:
+                      - generic: "1928"
+                  - generic:
+                    - generic:
+                      - generic: "1927"
+                  - generic:
+                    - generic:
+                      - generic: "1926"
+                  - generic:
+                    - generic:
+                      - generic: "1925"
+                  - generic:
+                    - generic:
+                      - generic: "1924"
+                  - generic:
+                    - generic:
+                      - generic: "1923"
+                  - generic:
+                    - generic:
+                      - generic: "1922"
+                  - generic:
+                    - generic:
+                      - generic: "1921"
+                  - generic:
+                    - generic:
+                      - generic: "1920"
+                  - generic:
+                    - generic:
+                      - generic: "1919"
+                  - generic:
+                    - generic:
+                      - generic: "1918"
+                  - generic:
+                    - generic:
+                      - generic: "1917"
+                  - generic:
+                    - generic:
+                      - generic: "1916"
+                  - generic:
+                    - generic:
+                      - generic: "1915"
+                  - generic:
+                    - generic:
+                      - generic: "1914"
+                  - generic:
+                    - generic:
+                      - generic: "1913"
+                  - generic:
+                    - generic:
+                      - generic: "1912"
+                  - generic:
+                    - generic:
+                      - generic: "1911"
+                  - generic:
+                    - generic:
+                      - generic: "1910"
+                  - generic:
+                    - generic:
+                      - generic: "1909"
+                  - generic:
+                    - generic:
+                      - generic: "1908"
+                  - generic:
+                    - generic:
+                      - generic: "1907"
+                  - generic:
+                    - generic:
+                      - generic: "1906"
+        - generic [ref=e736]:
+          - generic [ref=e738]:
+            - text: "Bu gün:"
+            - link "1873 yeni elan" [ref=e739] [cursor=pointer]:
+              - /url: /autos
+          - generic [ref=e740]:
+            - generic: Sıfırla
+            - generic [ref=e741] [cursor=pointer]: Daha çox filtr
+            - button "Elanları göstər" [ref=e742] [cursor=pointer]
+      - generic [ref=e745]:
+        - paragraph [ref=e748]: Premium elanlar
+        - generic [ref=e750]:
+          - generic [ref=e751]:
+            - link [ref=e752] [cursor=pointer]:
+              - /url: /autos/9444596-changan-uni-k-idd
+            - link:
+              - /url: /autos/9444596-changan-uni-k-idd/bookmarks
+            - generic [ref=e754]:
+              - img "Changan Uni-K iDD" [ref=e755]
+              - generic [ref=e757]: Rəsmi
+              - generic [ref=e763] [cursor=pointer]: Kreditdədir
+            - generic [ref=e764]:
+              - generic [ref=e765]: 53 900 ₼
+              - generic [ref=e766]: Changan Uni-K iDD
+              - generic [ref=e767]: 2025, 1.5 L, 0 km
+              - generic [ref=e768]: Bakı, bugün 11:57
+          - generic [ref=e769]:
+            - link [ref=e770] [cursor=pointer]:
+              - /url: /autos/9140403-changan-uni-v-idd
+            - link:
+              - /url: /autos/9140403-changan-uni-v-idd/bookmarks
+            - generic [ref=e772]:
+              - img "Changan Uni-V iDD" [ref=e773]
+              - generic [ref=e775]: Rəsmi
+              - generic [ref=e779]:
+                - generic [ref=e781] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e783] [cursor=pointer]: Kreditdədir
+            - generic [ref=e784]:
+              - generic [ref=e785]: 39 900 ₼
+              - generic [ref=e786]: Changan Uni-V iDD
+              - generic [ref=e787]: 2025, 1.5 L, 0 km
+              - generic [ref=e788]: Bakı, bugün 11:57
+          - generic [ref=e789]:
+            - link [ref=e790] [cursor=pointer]:
+              - /url: /autos/9285408-kia-optima
+            - link:
+              - /url: /autos/9285408-kia-optima/bookmarks
+            - generic [ref=e792]:
+              - img "Kia Optima" [ref=e793]
+              - generic [ref=e794]:
+                - generic [ref=e795]: Salon
+                - generic [ref=e796]: VIN
+              - generic [ref=e802] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e803]:
+              - generic [ref=e804]: 21 999 ₼
+              - generic [ref=e805]: Kia Optima
+              - generic [ref=e806]: 2019, 1.6 L, 177 000 km
+              - generic [ref=e807]: Bakı, bugün 11:57
+          - generic [ref=e808]:
+            - link [ref=e809] [cursor=pointer]:
+              - /url: /autos/10098702-toyota-corolla
+            - link:
+              - /url: /autos/10098702-toyota-corolla/bookmarks
+            - generic [ref=e811]:
+              - img "Toyota Corolla" [ref=e812]
+              - generic [ref=e814]: Salon
+            - generic [ref=e818]:
+              - generic [ref=e819]: 20 999 ₼
+              - generic [ref=e820]: Toyota Corolla
+              - generic [ref=e821]: 2014, 1.6 L, 154 000 km
+              - generic [ref=e822]: Bakı, bugün 11:56
+          - generic [ref=e823]:
+            - link [ref=e824] [cursor=pointer]:
+              - /url: /autos/8056282-changan-cs-95
+            - link:
+              - /url: /autos/8056282-changan-cs-95/bookmarks
+            - generic [ref=e826]:
+              - img "Changan CS 95" [ref=e827]
+              - generic [ref=e829]: Rəsmi
+              - generic [ref=e833]:
+                - generic [ref=e835] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e837] [cursor=pointer]: Kreditdədir
+            - generic [ref=e838]:
+              - generic [ref=e839]: 59 900 ₼
+              - generic [ref=e840]: Changan CS 95
+              - generic [ref=e841]: 2024, 2.0 L, 0 km
+              - generic [ref=e842]: Bakı, bugün 11:56
+          - generic [ref=e843]:
+            - link [ref=e844] [cursor=pointer]:
+              - /url: /autos/10191965-kia-k5
+            - link:
+              - /url: /autos/10191965-kia-k5/bookmarks
+            - generic [ref=e846]:
+              - img "Kia K5" [ref=e847]
+              - generic [ref=e849]: VIN
+              - generic [ref=e855] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e856]:
+              - generic [ref=e857]: 27 900 ₼
+              - generic [ref=e858]: Kia K5
+              - generic [ref=e859]: 2021, 1.6 L, 130 500 km
+              - generic [ref=e860]: Bakı, bugün 11:56
+          - generic [ref=e861]:
+            - link [ref=e862] [cursor=pointer]:
+              - /url: /autos/10184935-land-rover-range-rover
+            - link:
+              - /url: /autos/10184935-land-rover-range-rover/bookmarks
+            - generic [ref=e864]:
+              - img "Land Rover Range Rover" [ref=e865]
+              - generic [ref=e867]: Salon
+              - generic [ref=e871]:
+                - generic [ref=e873] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e875] [cursor=pointer]: Kreditdədir
+            - generic [ref=e876]:
+              - generic [ref=e877]: 49 000 ₼
+              - generic [ref=e878]: Land Rover Range Rover
+              - generic [ref=e879]: 2013, 3.0 L, 200 000 km
+              - generic [ref=e880]: Bakı, bugün 11:56
+          - generic [ref=e881]:
+            - link [ref=e882] [cursor=pointer]:
+              - /url: /autos/10181065-toyota-highlander
+            - link:
+              - /url: /autos/10181065-toyota-highlander/bookmarks
+            - img "Toyota Highlander" [ref=e885]
+            - generic [ref=e889]:
+              - generic [ref=e890]: 88 000 ₼
+              - generic [ref=e891]: Toyota Highlander
+              - generic [ref=e892]: 2024, 2.5 L, 7 875 km
+              - generic [ref=e893]: Bakı, bugün 11:56
+          - generic [ref=e894]:
+            - link [ref=e895] [cursor=pointer]:
+              - /url: /autos/10126921-land-rover-range-rover
+            - link:
+              - /url: /autos/10126921-land-rover-range-rover/bookmarks
+            - generic [ref=e897]:
+              - img "Land Rover Range Rover" [ref=e898]
+              - generic [ref=e900]: Salon
+              - generic [ref=e906] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e907]:
+              - generic [ref=e908]: 122 060 ₼
+              - generic [ref=e909]: Land Rover Range Rover
+              - generic [ref=e910]: 2021, 3.0 L, 125 000 km
+              - generic [ref=e911]: Bakı, bugün 11:55
+          - generic [ref=e912]:
+            - link [ref=e913] [cursor=pointer]:
+              - /url: /autos/10183914-changan-uni-k
+            - link:
+              - /url: /autos/10183914-changan-uni-k/bookmarks
+            - generic [ref=e915]:
+              - img "Changan Uni-K" [ref=e916]
+              - generic [ref=e918]: Rəsmi
+              - generic [ref=e924] [cursor=pointer]: Kreditdədir
+            - generic [ref=e925]:
+              - generic [ref=e926]: 49 900 ₼
+              - generic [ref=e927]: Changan Uni-K
+              - generic [ref=e928]: 2024, 2.0 L, 0 km
+              - generic [ref=e929]: Bakı, bugün 11:55
+          - generic [ref=e930]:
+            - link [ref=e931] [cursor=pointer]:
+              - /url: /autos/10185939-bmw-650
+            - link:
+              - /url: /autos/10185939-bmw-650/bookmarks
+            - generic [ref=e933]:
+              - img "BMW 650" [ref=e934]
+              - generic [ref=e936]: Salon
+              - generic [ref=e940]:
+                - generic [ref=e942] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e944] [cursor=pointer]: Kreditdədir
+            - generic [ref=e945]:
+              - generic [ref=e946]: 42 000 ₼
+              - generic [ref=e947]: BMW 650
+              - generic [ref=e948]: 2013, 4.4 L, 184 000 km
+              - generic [ref=e949]: Bakı, bugün 11:55
+          - generic [ref=e950]:
+            - link [ref=e951] [cursor=pointer]:
+              - /url: /autos/10184406-infiniti-fx35
+            - link:
+              - /url: /autos/10184406-infiniti-fx35/bookmarks
+            - img "Infiniti FX35" [ref=e954]
+            - generic [ref=e958]:
+              - generic [ref=e959]: 11 800 ₼
+              - generic [ref=e960]: Infiniti FX35
+              - generic [ref=e961]: 2007, 3.5 L, 290 000 km
+              - generic [ref=e962]: Bakı, bugün 11:55
+          - generic [ref=e963]:
+            - link [ref=e964] [cursor=pointer]:
+              - /url: /autos/9723083-opel-astra
+            - link:
+              - /url: /autos/9723083-opel-astra/bookmarks
+            - generic [ref=e966]:
+              - img "Opel Astra" [ref=e967]
+              - generic [ref=e973] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e974]:
+              - generic [ref=e975]: 12 000 ₼
+              - generic [ref=e976]: Opel Astra
+              - generic [ref=e977]: 2008, 1.9 L, 193 000 km
+              - generic [ref=e978]: Bakı, bugün 11:55
+          - generic [ref=e979]:
+            - link [ref=e980] [cursor=pointer]:
+              - /url: /autos/10166618-jac-js2
+            - link:
+              - /url: /autos/10166618-jac-js2/bookmarks
+            - img "JAC JS2" [ref=e983]
+            - generic [ref=e987]:
+              - generic [ref=e988]: 19 000 ₼
+              - generic [ref=e989]: JAC JS2
+              - generic [ref=e990]: 2026, 1.5 L, 0 km
+              - generic [ref=e991]: Bakı, bugün 11:54
+          - generic [ref=e992]:
+            - link [ref=e993] [cursor=pointer]:
+              - /url: /autos/9944422-toyota-corolla
+            - link:
+              - /url: /autos/9944422-toyota-corolla/bookmarks
+            - generic [ref=e995]:
+              - img "Toyota Corolla" [ref=e996]
+              - generic [ref=e998]: Salon
+              - generic [ref=e1004] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e1005]:
+              - generic [ref=e1006]: 32 200 ₼
+              - generic [ref=e1007]: Toyota Corolla
+              - generic [ref=e1008]: 2025, 1.8 L, 0 km
+              - generic [ref=e1009]: Bakı, bugün 11:54
+          - generic [ref=e1010]:
+            - link [ref=e1011] [cursor=pointer]:
+              - /url: /autos/9112956-lexus-lx-570
+            - link:
+              - /url: /autos/9112956-lexus-lx-570/bookmarks
+            - generic [ref=e1013]:
+              - img "Lexus LX 570" [ref=e1014]
+              - generic [ref=e1020] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e1021]:
+              - generic [ref=e1022]: 39 950 ₼
+              - generic [ref=e1023]: Lexus LX 570
+              - generic [ref=e1024]: 2011, 5.7 L, 346 494 km
+              - generic [ref=e1025]: Bakı, bugün 11:53
+          - generic [ref=e1026]:
+            - link [ref=e1027] [cursor=pointer]:
+              - /url: /autos/10179792-hyundai-santa-fe
+            - link:
+              - /url: /autos/10179792-hyundai-santa-fe/bookmarks
+            - img "Hyundai Santa Fe" [ref=e1030]
+            - generic [ref=e1034]:
+              - generic [ref=e1035]: 32 900 ₼
+              - generic [ref=e1036]: Hyundai Santa Fe
+              - generic [ref=e1037]: 2016, 2.0 L, 198 000 km
+              - generic [ref=e1038]: Bakı, bugün 11:53
+          - generic [ref=e1039]:
+            - link [ref=e1040] [cursor=pointer]:
+              - /url: /autos/9797557-bestune-b70
+            - link:
+              - /url: /autos/9797557-bestune-b70/bookmarks
+            - generic [ref=e1042]:
+              - img "Bestune B70" [ref=e1043]
+              - generic [ref=e1045]: Salon
+              - generic [ref=e1051] [cursor=pointer]: Barter mümkündür
+            - generic [ref=e1052]:
+              - generic [ref=e1053]: 28 500 ₼
+              - generic [ref=e1054]: Bestune B70
+              - generic [ref=e1055]: 2026, 1.5 L, 0 km
+              - generic [ref=e1056]: Bakı, bugün 11:53
+          - generic [ref=e1057]:
+            - link [ref=e1058] [cursor=pointer]:
+              - /url: /autos/9624045-dodge-challenger
+            - link:
+              - /url: /autos/9624045-dodge-challenger/bookmarks
+            - generic [ref=e1060]:
+              - img "Dodge Challenger" [ref=e1061]
+              - generic [ref=e1063]: Salon
+              - generic [ref=e1067]:
+                - generic [ref=e1069] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e1071] [cursor=pointer]: Kreditdədir
+            - generic [ref=e1072]:
+              - generic [ref=e1073]: 88 398 ₼
+              - generic [ref=e1074]: Dodge Challenger
+              - generic [ref=e1075]: 2023, 3.6 L, 21 200 km
+              - generic [ref=e1076]: Bakı, bugün 11:53
+          - generic [ref=e1077]:
+            - link [ref=e1078] [cursor=pointer]:
+              - /url: /autos/10147203-li-auto-l6
+            - link:
+              - /url: /autos/10147203-li-auto-l6/bookmarks
+            - generic [ref=e1080]:
+              - img "Li Auto L6" [ref=e1081]
+              - generic [ref=e1083]: Salon
+              - generic [ref=e1089] [cursor=pointer]: Kreditdədir
+            - generic [ref=e1090]:
+              - generic [ref=e1091]: 74 630 ₼
+              - generic [ref=e1092]: Li Auto L6
+              - generic [ref=e1093]: 2025, 1.5 L, 0 km
+              - generic [ref=e1094]: Bakı, bugün 11:53
+          - generic [ref=e1095]:
+            - link [ref=e1096] [cursor=pointer]:
+              - /url: /autos/10139692-land-rover-range-rover
+            - link:
+              - /url: /autos/10139692-land-rover-range-rover/bookmarks
+            - generic [ref=e1098]:
+              - img "Land Rover Range Rover" [ref=e1099]
+              - generic [ref=e1101]: Salon
+              - generic [ref=e1105]:
+                - generic [ref=e1107] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e1109] [cursor=pointer]: Kreditdədir
+            - generic [ref=e1110]:
+              - generic [ref=e1111]: 67 490 ₼
+              - generic [ref=e1112]: Land Rover Range Rover
+              - generic [ref=e1113]: 2017, 3.0 L, 95 200 km
+              - generic [ref=e1114]: Bakı, bugün 11:52
+          - generic [ref=e1115]:
+            - link [ref=e1116] [cursor=pointer]:
+              - /url: /autos/8925411-mitsubishi-eclipse-cross
+            - link:
+              - /url: /autos/8925411-mitsubishi-eclipse-cross/bookmarks
+            - generic [ref=e1118]:
+              - img "Mitsubishi Eclipse Cross" [ref=e1119]
+              - generic [ref=e1121]: Rəsmi
+              - generic [ref=e1125]:
+                - generic [ref=e1127] [cursor=pointer]: Barter mümkündür
+                - generic [ref=e1129] [cursor=pointer]: Kreditdədir
+            - generic [ref=e1130]:
+              - generic [ref=e1131]: 47 500 ₼
+              - generic [ref=e1132]: Mitsubishi Eclipse Cross
+              - generic [ref=e1133]: 2025, 2.0 L, 0 km
+              - generic [ref=e1134]: Bakı, bugün 11:52
+          - generic [ref=e1135]:
+            - link [ref=e1136] [cursor=pointer]:
+              - /url: /autos/10172036-hyundai-santa-fe
+            - link:
+              - /url: /autos/10172036-hyundai-santa-fe/bookmarks
+            - img "Hyundai Santa Fe" [ref=e1139]
+            - generic [ref=e1143]:
+              - generic [ref=e1144]: 28 900 ₼
+              - generic [ref=e1145]: Hyundai Santa Fe
+              - generic [ref=e1146]: 2013, 2.0 L, 242 000 km
+              - generic [ref=e1147]: Bakı, bugün 11:52
+          - generic [ref=e1148]:
+            - link [ref=e1149] [cursor=pointer]:
+              - /url: /autos/10183084-lada-vaz-21011
+            - link:
+              - /url: /autos/10183084-lada-vaz-21011/bookmarks
+            - generic [ref=e1151]:
+              - img "LADA (VAZ) 21011" [ref=e1152]
+              - generic [ref=e1154]: Salon
+            - generic [ref=e1158]:
+              - generic [ref=e1159]: 17 000 ₼
+              - generic [ref=e1160]: LADA (VAZ) 21011
+              - generic [ref=e1161]: 1986, 1.3 L, 2 700 km
+              - generic [ref=e1162]: Bakı, bugün 11:52
+    - contentinfo [ref=e1163]:
+      - generic [ref=e1164]:
+        - generic [ref=e1165]:
+          - heading "Hər şey bir tətbiqdə!" [level=2] [ref=e1166]
+          - generic [ref=e1167]:
+            - link "App Store" [ref=e1168] [cursor=pointer]:
+              - /url: https://apps.apple.com/az/app/turbo-az/id1188237984
+              - img "App Store" [ref=e1169]
+            - link "Google Play" [ref=e1170] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=org.turboaz.android&hl=az
+              - img "Google Play" [ref=e1171]
+            - link "App Gallery" [ref=e1172] [cursor=pointer]:
+              - /url: https://appgallery.huawei.com/app/C103829417
+              - img "App Gallery" [ref=e1173]
+        - generic [ref=e1176]:
+          - img "QR Code" [ref=e1177]
+          - generic [ref=e1178]: Yükləmək üçün kameranı QR-koda yönəldin
+      - generic [ref=e1180]:
+        - link "Reklam yerləşdirin" [ref=e1181] [cursor=pointer]:
+          - /url: https://ads.digit.az?utm_source=turboaz&utm_medium=referral&utm_campaign=turboaz_referral&utm_content=footer
+        - generic [ref=e1182]:
+          - link [ref=e1183] [cursor=pointer]:
+            - /url: https://www.facebook.com/www.turbo.az
+            - img [ref=e1184]
+          - link [ref=e1186] [cursor=pointer]:
+            - /url: https://www.instagram.com/turbo.az/
+            - img [ref=e1187]
+          - generic [ref=e1189]:
+            - img [ref=e1190]
+            - link "turbo@turbo.az" [ref=e1193] [cursor=pointer]:
+              - /url: mailto:turbo@turbo.az
+          - generic [ref=e1194]:
+            - img [ref=e1195]
+            - link "(012) 526-47-47" [ref=e1197] [cursor=pointer]:
+              - /url: tel:+994125264747
+      - generic [ref=e1200]:
+        - generic [ref=e1201]:
+          - link "Abarth (4)" [ref=e1202] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=280
+            - generic [ref=e1203]: Abarth
+            - generic [ref=e1204]: (4)
+          - link "Acura (1)" [ref=e1205] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=28
+            - generic [ref=e1206]: Acura
+            - generic [ref=e1207]: (1)
+          - link "Alfa Romeo (14)" [ref=e1208] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=30
+            - generic [ref=e1209]: Alfa Romeo
+            - generic [ref=e1210]: (14)
+          - link "Anyang Kinland (4)" [ref=e1211] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=859
+            - generic [ref=e1212]: Anyang Kinland
+            - generic [ref=e1213]: (4)
+          - link "Arctic Cat (1)" [ref=e1214] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=249
+            - generic [ref=e1215]: Arctic Cat
+            - generic [ref=e1216]: (1)
+          - link "Aston Martin (2)" [ref=e1217] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=86
+            - generic [ref=e1218]: Aston Martin
+            - generic [ref=e1219]: (2)
+          - link "ATV (3)" [ref=e1220] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=268
+            - generic [ref=e1221]: ATV
+            - generic [ref=e1222]: (3)
+          - link "Audi (255)" [ref=e1223] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=9
+            - generic [ref=e1224]: Audi
+            - generic [ref=e1225]: (255)
+          - link "Avatr (24)" [ref=e1226] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=419
+            - generic [ref=e1227]: Avatr
+            - generic [ref=e1228]: (24)
+          - link "Avia (1)" [ref=e1229] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=274
+            - generic [ref=e1230]: Avia
+            - generic [ref=e1231]: (1)
+          - link "Baic (64)" [ref=e1232] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=218
+            - generic [ref=e1233]: Baic
+            - generic [ref=e1234]: (64)
+          - link "Bajaj (14)" [ref=e1235] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=327
+            - generic [ref=e1236]: Bajaj
+            - generic [ref=e1237]: (14)
+          - link "BAW (3)" [ref=e1238] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=226
+            - generic [ref=e1239]: BAW
+            - generic [ref=e1240]: (3)
+          - link "BENDA (20)" [ref=e1241] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=642
+            - generic [ref=e1242]: BENDA
+            - generic [ref=e1243]: (20)
+          - link "Bentley (52)" [ref=e1244] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=19
+            - generic [ref=e1245]: Bentley
+            - generic [ref=e1246]: (52)
+          - link "Bestune (52)" [ref=e1247] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=387
+            - generic [ref=e1248]: Bestune
+            - generic [ref=e1249]: (52)
+          - link "BMC (1)" [ref=e1250] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=136
+            - generic [ref=e1251]: BMC
+            - generic [ref=e1252]: (1)
+          - link "BMW (2554)" [ref=e1253] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=3
+            - generic [ref=e1254]: BMW
+            - generic [ref=e1255]: (2554)
+          - link "BMW Alpina (2)" [ref=e1256] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=62
+            - generic [ref=e1257]: BMW Alpina
+            - generic [ref=e1258]: (2)
+          - link "Brilliance (1)" [ref=e1259] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=92
+            - generic [ref=e1260]: Brilliance
+            - generic [ref=e1261]: (1)
+          - link "BRP (12)" [ref=e1262] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=736
+            - generic [ref=e1263]: BRP
+            - generic [ref=e1264]: (12)
+          - link "Buick (3)" [ref=e1265] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=84
+            - generic [ref=e1266]: Buick
+            - generic [ref=e1267]: (3)
+          - link "BYD (806)" [ref=e1268] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=51
+            - generic [ref=e1269]: BYD
+            - generic [ref=e1270]: (806)
+          - link "C.Moto (1)" [ref=e1271] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=395
+            - generic [ref=e1272]: C.Moto
+            - generic [ref=e1273]: (1)
+          - link "Cadillac (32)" [ref=e1274] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=38
+            - generic [ref=e1275]: Cadillac
+            - generic [ref=e1276]: (32)
+          - link "Can-Am (6)" [ref=e1277] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=220
+            - generic [ref=e1278]: Can-Am
+            - generic [ref=e1279]: (6)
+          - link "Cevo (1)" [ref=e1280] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=397
+            - generic [ref=e1281]: Cevo
+            - generic [ref=e1282]: (1)
+          - link "CFMOTO (69)" [ref=e1283] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=259
+            - generic [ref=e1284]: CFMOTO
+            - generic [ref=e1285]: (69)
+          - link "Changan (2438)" [ref=e1286] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=163
+            - generic [ref=e1287]: Changan
+            - generic [ref=e1288]: (2438)
+          - link "Chery (73)" [ref=e1289] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=52
+            - generic [ref=e1290]: Chery
+            - generic [ref=e1291]: (73)
+          - link "Chevrolet (2171)" [ref=e1292] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=41
+            - generic [ref=e1293]: Chevrolet
+            - generic [ref=e1294]: (2171)
+          - link "Chrysler (23)" [ref=e1295] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=10
+            - generic [ref=e1296]: Chrysler
+            - generic [ref=e1297]: (23)
+        - generic [ref=e1298]:
+          - link "Citroen (21)" [ref=e1299] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=27
+            - generic [ref=e1300]: Citroen
+            - generic [ref=e1301]: (21)
+          - link "Dacia (34)" [ref=e1302] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=76
+            - generic [ref=e1303]: Dacia
+            - generic [ref=e1304]: (34)
+          - link "Daewoo (286)" [ref=e1305] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=11
+            - generic [ref=e1306]: Daewoo
+            - generic [ref=e1307]: (286)
+          - link "DAF (58)" [ref=e1308] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=91
+            - generic [ref=e1309]: DAF
+            - generic [ref=e1310]: (58)
+          - link "Daihatsu (2)" [ref=e1311] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=66
+            - generic [ref=e1312]: Daihatsu
+            - generic [ref=e1313]: (2)
+          - link "Dayun (18)" [ref=e1314] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=148
+            - generic [ref=e1315]: Dayun
+            - generic [ref=e1316]: (18)
+          - link "Denza (23)" [ref=e1317] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=471
+            - generic [ref=e1318]: Denza
+            - generic [ref=e1319]: (23)
+          - link "DFSK (14)" [ref=e1320] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=405
+            - generic [ref=e1321]: DFSK
+            - generic [ref=e1322]: (14)
+          - link "Dnepr (4)" [ref=e1323] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=162
+            - generic [ref=e1324]: Dnepr
+            - generic [ref=e1325]: (4)
+          - link "Dodge (68)" [ref=e1326] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=60
+            - generic [ref=e1327]: Dodge
+            - generic [ref=e1328]: (68)
+          - link "DongFeng (44)" [ref=e1329] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=117
+            - generic [ref=e1330]: DongFeng
+            - generic [ref=e1331]: (44)
+          - link "Ducati (5)" [ref=e1332] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=147
+            - generic [ref=e1333]: Ducati
+            - generic [ref=e1334]: (5)
+          - link "FAW (6)" [ref=e1335] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=79
+            - generic [ref=e1336]: FAW
+            - generic [ref=e1337]: (6)
+          - link "Ferrari (4)" [ref=e1338] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=42
+            - generic [ref=e1339]: Ferrari
+            - generic [ref=e1340]: (4)
+          - link "Fiat (196)" [ref=e1341] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=37
+            - generic [ref=e1342]: Fiat
+            - generic [ref=e1343]: (196)
+          - link "Ford (2074)" [ref=e1344] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=2
+            - generic [ref=e1345]: Ford
+            - generic [ref=e1346]: (2074)
+          - link "Forthing (14)" [ref=e1347] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=478
+            - generic [ref=e1348]: Forthing
+            - generic [ref=e1349]: (14)
+          - link "Foton (14)" [ref=e1350] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=49
+            - generic [ref=e1351]: Foton
+            - generic [ref=e1352]: (14)
+          - link "Freedom (13)" [ref=e1353] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=689
+            - generic [ref=e1354]: Freedom
+            - generic [ref=e1355]: (13)
+          - link "FY (1)" [ref=e1356] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=870
+            - generic [ref=e1357]: FY
+            - generic [ref=e1358]: (1)
+          - link "GAC (54)" [ref=e1359] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=175
+            - generic [ref=e1360]: GAC
+            - generic [ref=e1361]: (54)
+          - link "GAZ (590)" [ref=e1362] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=21
+            - generic [ref=e1363]: GAZ
+            - generic [ref=e1364]: (590)
+          - link "Geely (168)" [ref=e1365] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=72
+            - generic [ref=e1366]: Geely
+            - generic [ref=e1367]: (168)
+          - link "Genesis (14)" [ref=e1368] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=376
+            - generic [ref=e1369]: Genesis
+            - generic [ref=e1370]: (14)
+          - link "GMC (18)" [ref=e1371] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=82
+            - generic [ref=e1372]: GMC
+            - generic [ref=e1373]: (18)
+          - link "Golden Dragon (3)" [ref=e1374] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=773
+            - generic [ref=e1375]: Golden Dragon
+            - generic [ref=e1376]: (3)
+          - link "Grandmoto (1)" [ref=e1377] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=466
+            - generic [ref=e1378]: Grandmoto
+            - generic [ref=e1379]: (1)
+          - link "GST (2)" [ref=e1380] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=847
+            - generic [ref=e1381]: GST
+            - generic [ref=e1382]: (2)
+          - link "GWM (Great Wall Motor) (59)" [ref=e1383] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=50
+            - generic [ref=e1384]: GWM (Great Wall Motor)
+            - generic [ref=e1385]: (59)
+          - link "Haojue (11)" [ref=e1386] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=142
+            - generic [ref=e1387]: Haojue
+            - generic [ref=e1388]: (11)
+          - link "Harley-Davidson (35)" [ref=e1389] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=140
+            - generic [ref=e1390]: Harley-Davidson
+            - generic [ref=e1391]: (35)
+          - link "Haval (76)" [ref=e1392] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=242
+            - generic [ref=e1393]: Haval
+            - generic [ref=e1394]: (76)
+        - generic [ref=e1395]:
+          - link "Honda (363)" [ref=e1396] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=12
+            - generic [ref=e1397]: Honda
+            - generic [ref=e1398]: (363)
+          - link "Hongqi (16)" [ref=e1399] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=388
+            - generic [ref=e1400]: Hongqi
+            - generic [ref=e1401]: (16)
+          - link "HOWO (46)" [ref=e1402] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=110
+            - generic [ref=e1403]: HOWO
+            - generic [ref=e1404]: (46)
+          - link "Hummer (18)" [ref=e1405] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=13
+            - generic [ref=e1406]: Hummer
+            - generic [ref=e1407]: (18)
+          - link "Hycan (1)" [ref=e1408] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=461
+            - generic [ref=e1409]: Hycan
+            - generic [ref=e1410]: (1)
+          - link "Hyundai (4091)" [ref=e1411] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=1
+            - generic [ref=e1412]: Hyundai
+            - generic [ref=e1413]: (4091)
+          - link "iCar (1)" [ref=e1414] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=678
+            - generic [ref=e1415]: iCar
+            - generic [ref=e1416]: (1)
+          - link "iHonzda (3)" [ref=e1417] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=772
+            - generic [ref=e1418]: iHonzda
+            - generic [ref=e1419]: (3)
+          - link "IJ (20)" [ref=e1420] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=64
+            - generic [ref=e1421]: IJ
+            - generic [ref=e1422]: (20)
+          - link "IM (13)" [ref=e1423] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=424
+            - generic [ref=e1424]: IM
+            - generic [ref=e1425]: (13)
+          - link "Indian Motorcycle (8)" [ref=e1426] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=411
+            - generic [ref=e1427]: Indian Motorcycle
+            - generic [ref=e1428]: (8)
+          - link "Infiniti (135)" [ref=e1429] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=15
+            - generic [ref=e1430]: Infiniti
+            - generic [ref=e1431]: (135)
+          - link "Iran Khodro (89)" [ref=e1432] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=116
+            - generic [ref=e1433]: Iran Khodro
+            - generic [ref=e1434]: (89)
+          - link "Isuzu (118)" [ref=e1435] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=74
+            - generic [ref=e1436]: Isuzu
+            - generic [ref=e1437]: (118)
+          - link "Iveco (30)" [ref=e1438] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=67
+            - generic [ref=e1439]: Iveco
+            - generic [ref=e1440]: (30)
+          - link "JAC (86)" [ref=e1441] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=124
+            - generic [ref=e1442]: JAC
+            - generic [ref=e1443]: (86)
+          - link "Jaguar (47)" [ref=e1444] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=35
+            - generic [ref=e1445]: Jaguar
+            - generic [ref=e1446]: (47)
+          - link "Jeep (255)" [ref=e1447] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=36
+            - generic [ref=e1448]: Jeep
+            - generic [ref=e1449]: (255)
+          - link "JETOUR (96)" [ref=e1450] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=384
+            - generic [ref=e1451]: JETOUR
+            - generic [ref=e1452]: (96)
+          - link "Jiangmen (4)" [ref=e1453] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=462
+            - generic [ref=e1454]: Jiangmen
+            - generic [ref=e1455]: (4)
+          - link "Jianshe (5)" [ref=e1456] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=337
+            - generic [ref=e1457]: Jianshe
+            - generic [ref=e1458]: (5)
+          - link "JIM (3)" [ref=e1459] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=864
+            - generic [ref=e1460]: JIM
+            - generic [ref=e1461]: (3)
+          - link "JMC (21)" [ref=e1462] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=109
+            - generic [ref=e1463]: JMC
+            - generic [ref=e1464]: (21)
+          - link "KAIYI (15)" [ref=e1465] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=390
+            - generic [ref=e1466]: KAIYI
+            - generic [ref=e1467]: (15)
+          - link "KamAz (216)" [ref=e1468] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=90
+            - generic [ref=e1469]: KamAz
+            - generic [ref=e1470]: (216)
+          - link "Kanuni (1)" [ref=e1471] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=406
+            - generic [ref=e1472]: Kanuni
+            - generic [ref=e1473]: (1)
+          - link "Karry (2)" [ref=e1474] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=420
+            - generic [ref=e1475]: Karry
+            - generic [ref=e1476]: (2)
+          - link "Kavaki (3)" [ref=e1477] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=876
+            - generic [ref=e1478]: Kavaki
+            - generic [ref=e1479]: (3)
+          - link "Kawasaki (14)" [ref=e1480] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=139
+            - generic [ref=e1481]: Kawasaki
+            - generic [ref=e1482]: (14)
+          - link "Kayo (3)" [ref=e1483] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=374
+            - generic [ref=e1484]: Kayo
+            - generic [ref=e1485]: (3)
+          - link "KG Mobility (4)" [ref=e1486] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=473
+            - generic [ref=e1487]: KG Mobility
+            - generic [ref=e1488]: (4)
+          - link "Khazar (195)" [ref=e1489] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=282
+            - generic [ref=e1490]: Khazar
+            - generic [ref=e1491]: (195)
+        - generic [ref=e1492]:
+          - link "Kia (3029)" [ref=e1493] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=8
+            - generic [ref=e1494]: Kia
+            - generic [ref=e1495]: (3029)
+          - link "King Long (2)" [ref=e1496] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=468
+            - generic [ref=e1497]: King Long
+            - generic [ref=e1498]: (2)
+          - link "Kinroad (1)" [ref=e1499] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=169
+            - generic [ref=e1500]: Kinroad
+            - generic [ref=e1501]: (1)
+          - link "KrAZ (2)" [ref=e1502] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=119
+            - generic [ref=e1503]: KrAZ
+            - generic [ref=e1504]: (2)
+          - link "KTM (2)" [ref=e1505] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=141
+            - generic [ref=e1506]: KTM
+            - generic [ref=e1507]: (2)
+          - link "Kuba (6)" [ref=e1508] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=332
+            - generic [ref=e1509]: Kuba
+            - generic [ref=e1510]: (6)
+          - link "KYC (1)" [ref=e1511] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=872
+            - generic [ref=e1512]: KYC
+            - generic [ref=e1513]: (1)
+          - link "LADA (VAZ) (4355)" [ref=e1514] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=5
+            - generic [ref=e1515]: LADA (VAZ)
+            - generic [ref=e1516]: (4355)
+          - link "Lamborghini (9)" [ref=e1517] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=43
+            - generic [ref=e1518]: Lamborghini
+            - generic [ref=e1519]: (9)
+          - link "Land Rover (996)" [ref=e1520] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=20
+            - generic [ref=e1521]: Land Rover
+            - generic [ref=e1522]: (996)
+          - link "Leapmotor (13)" [ref=e1523] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=459
+            - generic [ref=e1524]: Leapmotor
+            - generic [ref=e1525]: (13)
+          - link "Lexus (466)" [ref=e1526] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=14
+            - generic [ref=e1527]: Lexus
+            - generic [ref=e1528]: (466)
+          - link "Li Auto (118)" [ref=e1529] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=412
+            - generic [ref=e1530]: Li Auto
+            - generic [ref=e1531]: (118)
+          - link "Lifan (32)" [ref=e1532] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=87
+            - generic [ref=e1533]: Lifan
+            - generic [ref=e1534]: (32)
+          - link "Lincoln (22)" [ref=e1535] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=46
+            - generic [ref=e1536]: Lincoln
+            - generic [ref=e1537]: (22)
+          - link "Lotus (1)" [ref=e1538] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=238
+            - generic [ref=e1539]: Lotus
+            - generic [ref=e1540]: (1)
+          - link "LuAz (2)" [ref=e1541] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=103
+            - generic [ref=e1542]: LuAz
+            - generic [ref=e1543]: (2)
+          - link "Lynk & Co (101)" [ref=e1544] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=414
+            - generic [ref=e1545]: Lynk & Co
+            - generic [ref=e1546]: (101)
+          - link "M-Hero (8)" [ref=e1547] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=677
+            - generic [ref=e1548]: M-Hero
+            - generic [ref=e1549]: (8)
+          - link "Mack (2)" [ref=e1550] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=329
+            - generic [ref=e1551]: Mack
+            - generic [ref=e1552]: (2)
+          - link "Maextro (3)" [ref=e1553] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=867
+            - generic [ref=e1554]: Maextro
+            - generic [ref=e1555]: (3)
+          - link "MAN (65)" [ref=e1556] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=112
+            - generic [ref=e1557]: MAN
+            - generic [ref=e1558]: (65)
+          - link "Maple (10)" [ref=e1559] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=423
+            - generic [ref=e1560]: Maple
+            - generic [ref=e1561]: (10)
+          - link "Marshal (7)" [ref=e1562] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=856
+            - generic [ref=e1563]: Marshal
+            - generic [ref=e1564]: (7)
+          - link "Maserati (34)" [ref=e1565] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=44
+            - generic [ref=e1566]: Maserati
+            - generic [ref=e1567]: (34)
+          - link "MAZ (16)" [ref=e1568] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=100
+            - generic [ref=e1569]: MAZ
+            - generic [ref=e1570]: (16)
+          - link "Mazda (159)" [ref=e1571] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=26
+            - generic [ref=e1572]: Mazda
+            - generic [ref=e1573]: (159)
+          - link "Mercedes (6427)" [ref=e1574] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=4
+            - generic [ref=e1575]: Mercedes
+            - generic [ref=e1576]: (6427)
+          - link "Mercedes-Maybach (14)" [ref=e1577] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=252
+            - generic [ref=e1578]: Mercedes-Maybach
+            - generic [ref=e1579]: (14)
+          - link "Mercury (1)" [ref=e1580] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=47
+            - generic [ref=e1581]: Mercury
+            - generic [ref=e1582]: (1)
+          - link "MG (44)" [ref=e1583] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=127
+            - generic [ref=e1584]: MG
+            - generic [ref=e1585]: (44)
+          - link "Mini (51)" [ref=e1586] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=31
+            - generic [ref=e1587]: Mini
+            - generic [ref=e1588]: (51)
+        - generic [ref=e1589]:
+          - link "Minsk (13)" [ref=e1590] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=146
+            - generic [ref=e1591]: Minsk
+            - generic [ref=e1592]: (13)
+          - link "Mitsubishi (647)" [ref=e1593] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=6
+            - generic [ref=e1594]: Mitsubishi
+            - generic [ref=e1595]: (647)
+          - link "Mondial (2)" [ref=e1596] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=286
+            - generic [ref=e1597]: Mondial
+            - generic [ref=e1598]: (2)
+          - link "Moskvich (17)" [ref=e1599] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=81
+            - generic [ref=e1600]: Moskvich
+            - generic [ref=e1601]: (17)
+          - link "Moto Guzzi (1)" [ref=e1602] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=416
+            - generic [ref=e1603]: Moto Guzzi
+            - generic [ref=e1604]: (1)
+          - link "Muravey (25)" [ref=e1605] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=243
+            - generic [ref=e1606]: Muravey
+            - generic [ref=e1607]: (25)
+          - link "Nama (5)" [ref=e1608] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=324
+            - generic [ref=e1609]: Nama
+            - generic [ref=e1610]: (5)
+          - link "Neta (3)" [ref=e1611] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=409
+            - generic [ref=e1612]: Neta
+            - generic [ref=e1613]: (3)
+          - link "Nio (1)" [ref=e1614] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=415
+            - generic [ref=e1615]: Nio
+            - generic [ref=e1616]: (1)
+          - link "Nissan (1289)" [ref=e1617] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=7
+            - generic [ref=e1618]: Nissan
+            - generic [ref=e1619]: (1289)
+          - link "NIU (2)" [ref=e1620] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=379
+            - generic [ref=e1621]: NIU
+            - generic [ref=e1622]: (2)
+          - link "Omoda Jaecoo (5)" [ref=e1623] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=866
+            - generic [ref=e1624]: Omoda Jaecoo
+            - generic [ref=e1625]: (5)
+          - link "Opel (1688)" [ref=e1626] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=29
+            - generic [ref=e1627]: Opel
+            - generic [ref=e1628]: (1688)
+          - link "PAZ (8)" [ref=e1629] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=114
+            - generic [ref=e1630]: PAZ
+            - generic [ref=e1631]: (8)
+          - link "Peugeot (61)" [ref=e1632] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=16
+            - generic [ref=e1633]: Peugeot
+            - generic [ref=e1634]: (61)
+          - link "Piaggio (1)" [ref=e1635] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=152
+            - generic [ref=e1636]: Piaggio
+            - generic [ref=e1637]: (1)
+          - link "Polaris (1)" [ref=e1638] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=247
+            - generic [ref=e1639]: Polaris
+            - generic [ref=e1640]: (1)
+          - link "Polestar (4)" [ref=e1641] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=396
+            - generic [ref=e1642]: Polestar
+            - generic [ref=e1643]: (4)
+          - link "Pontiac (1)" [ref=e1644] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=48
+            - generic [ref=e1645]: Pontiac
+            - generic [ref=e1646]: (1)
+          - link "Porsche (214)" [ref=e1647] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=32
+            - generic [ref=e1648]: Porsche
+            - generic [ref=e1649]: (214)
+          - link "QJMotor (5)" [ref=e1650] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=681
+            - generic [ref=e1651]: QJMotor
+            - generic [ref=e1652]: (5)
+          - link "Radar (1)" [ref=e1653] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=467
+            - generic [ref=e1654]: Radar
+            - generic [ref=e1655]: (1)
+          - link "RAF (2)" [ref=e1656] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=105
+            - generic [ref=e1657]: RAF
+            - generic [ref=e1658]: (2)
+          - link "Ravon (73)" [ref=e1659] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=272
+            - generic [ref=e1660]: Ravon
+            - generic [ref=e1661]: (73)
+          - link "Renault (303)" [ref=e1662] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=17
+            - generic [ref=e1663]: Renault
+            - generic [ref=e1664]: (303)
+          - link "Renault Samsung (5)" [ref=e1665] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=595
+            - generic [ref=e1666]: Renault Samsung
+            - generic [ref=e1667]: (5)
+          - link "RKS (1)" [ref=e1668] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=333
+            - generic [ref=e1669]: RKS
+            - generic [ref=e1670]: (1)
+          - link "Roewe (3)" [ref=e1671] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=171
+            - generic [ref=e1672]: Roewe
+            - generic [ref=e1673]: (3)
+          - link "Rolls-Royce (3)" [ref=e1674] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=18
+            - generic [ref=e1675]: Rolls-Royce
+            - generic [ref=e1676]: (3)
+          - link "Rover (1)" [ref=e1677] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=78
+            - generic [ref=e1678]: Rover
+            - generic [ref=e1679]: (1)
+          - link "ROX (Polar Stone) (44)" [ref=e1680] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=477
+            - generic [ref=e1681]: ROX (Polar Stone)
+            - generic [ref=e1682]: (44)
+          - link "Royal Enfield (5)" [ref=e1683] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=422
+            - generic [ref=e1684]: Royal Enfield
+            - generic [ref=e1685]: (5)
+        - generic [ref=e1686]:
+          - link "Saab (1)" [ref=e1687] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=80
+            - generic [ref=e1688]: Saab
+            - generic [ref=e1689]: (1)
+          - link "Saipa (78)" [ref=e1690] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=94
+            - generic [ref=e1691]: Saipa
+            - generic [ref=e1692]: (78)
+          - link "SamAuto (2)" [ref=e1693] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=377
+            - generic [ref=e1694]: SamAuto
+            - generic [ref=e1695]: (2)
+          - link "Saturn (1)" [ref=e1696] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=93
+            - generic [ref=e1697]: Saturn
+            - generic [ref=e1698]: (1)
+          - link "Scania (19)" [ref=e1699] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=108
+            - generic [ref=e1700]: Scania
+            - generic [ref=e1701]: (19)
+          - link "SEAT (36)" [ref=e1702] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=59
+            - generic [ref=e1703]: SEAT
+            - generic [ref=e1704]: (36)
+          - link "Seres Aito (22)" [ref=e1705] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=460
+            - generic [ref=e1706]: Seres Aito
+            - generic [ref=e1707]: (22)
+          - link "Setra (3)" [ref=e1708] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=115
+            - generic [ref=e1709]: Setra
+            - generic [ref=e1710]: (3)
+          - link "Shacman (22)" [ref=e1711] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=133
+            - generic [ref=e1712]: Shacman
+            - generic [ref=e1713]: (22)
+          - link "Shaolin (1)" [ref=e1714] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=132
+            - generic [ref=e1715]: Shaolin
+            - generic [ref=e1716]: (1)
+          - link "Sharmax (1)" [ref=e1717] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=690
+            - generic [ref=e1718]: Sharmax
+            - generic [ref=e1719]: (1)
+          - link "Skoda (89)" [ref=e1720] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=22
+            - generic [ref=e1721]: Skoda
+            - generic [ref=e1722]: (89)
+          - link "Skywell (1)" [ref=e1723] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=399
+            - generic [ref=e1724]: Skywell
+            - generic [ref=e1725]: (1)
+          - link "Smart (4)" [ref=e1726] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=61
+            - generic [ref=e1727]: Smart
+            - generic [ref=e1728]: (4)
+          - link "Soueast (5)" [ref=e1729] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=402
+            - generic [ref=e1730]: Soueast
+            - generic [ref=e1731]: (5)
+          - link "Ssang Yong (17)" [ref=e1732] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=45
+            - generic [ref=e1733]: Ssang Yong
+            - generic [ref=e1734]: (17)
+          - link "Subaru (51)" [ref=e1735] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=34
+            - generic [ref=e1736]: Subaru
+            - generic [ref=e1737]: (51)
+          - link "Suzuki (67)" [ref=e1738] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=33
+            - generic [ref=e1739]: Suzuki
+            - generic [ref=e1740]: (67)
+          - link "Temsa (2)" [ref=e1741] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=128
+            - generic [ref=e1742]: Temsa
+            - generic [ref=e1743]: (2)
+          - link "Tesla (119)" [ref=e1744] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=245
+            - generic [ref=e1745]: Tesla
+            - generic [ref=e1746]: (119)
+          - link "Tofas (135)" [ref=e1747] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=39
+            - generic [ref=e1748]: Tofas
+            - generic [ref=e1749]: (135)
+          - link "Toyota (3041)" [ref=e1750] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=23
+            - generic [ref=e1751]: Toyota
+            - generic [ref=e1752]: (3041)
+          - link "Triumph (5)" [ref=e1753] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=233
+            - generic [ref=e1754]: Triumph
+            - generic [ref=e1755]: (5)
+          - link "Tufan (88)" [ref=e1756] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=385
+            - generic [ref=e1757]: Tufan
+            - generic [ref=e1758]: (88)
+          - link "TVS (4)" [ref=e1759] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=464
+            - generic [ref=e1760]: TVS
+            - generic [ref=e1761]: (4)
+          - link "UAZ (63)" [ref=e1762] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=53
+            - generic [ref=e1763]: UAZ
+            - generic [ref=e1764]: (63)
+          - link "Ural (6)" [ref=e1765] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=145
+            - generic [ref=e1766]: Ural
+            - generic [ref=e1767]: (6)
+          - link "Vespa (2)" [ref=e1768] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=223
+            - generic [ref=e1769]: Vespa
+            - generic [ref=e1770]: (2)
+          - link "VGV (36)" [ref=e1771] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=410
+            - generic [ref=e1772]: VGV
+            - generic [ref=e1773]: (36)
+          - link "Victoria (1)" [ref=e1774] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=868
+            - generic [ref=e1775]: Victoria
+            - generic [ref=e1776]: (1)
+          - link "Voge (3)" [ref=e1777] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=857
+            - generic [ref=e1778]: Voge
+            - generic [ref=e1779]: (3)
+          - link "Volkswagen (766)" [ref=e1780] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=24
+            - generic [ref=e1781]: Volkswagen
+            - generic [ref=e1782]: (766)
+        - generic [ref=e1783]:
+          - link "Volta (1)" [ref=e1784] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=386
+            - generic [ref=e1785]: Volta
+            - generic [ref=e1786]: (1)
+          - link "Volvo (93)" [ref=e1787] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=25
+            - generic [ref=e1788]: Volvo
+            - generic [ref=e1789]: (93)
+          - link "Voyah (37)" [ref=e1790] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=417
+            - generic [ref=e1791]: Voyah
+            - generic [ref=e1792]: (37)
+          - link "Wanfeng (1)" [ref=e1793] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=335
+            - generic [ref=e1794]: Wanfeng
+            - generic [ref=e1795]: (1)
+          - link "Wuling (12)" [ref=e1796] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=404
+            - generic [ref=e1797]: Wuling
+            - generic [ref=e1798]: (12)
+          - link "Xiaomi (4)" [ref=e1799] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=680
+            - generic [ref=e1800]: Xiaomi
+            - generic [ref=e1801]: (4)
+          - link "XPeng (17)" [ref=e1802] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=421
+            - generic [ref=e1803]: XPeng
+            - generic [ref=e1804]: (17)
+          - link "Yadea (2)" [ref=e1805] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=381
+            - generic [ref=e1806]: Yadea
+            - generic [ref=e1807]: (2)
+          - link "Yamaha (43)" [ref=e1808] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=138
+            - generic [ref=e1809]: Yamaha
+            - generic [ref=e1810]: (43)
+          - link "Yuejin (1)" [ref=e1811] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=325
+            - generic [ref=e1812]: Yuejin
+            - generic [ref=e1813]: (1)
+          - link "Yutong (1)" [ref=e1814] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=331
+            - generic [ref=e1815]: Yutong
+            - generic [ref=e1816]: (1)
+          - link "ZAZ (23)" [ref=e1817] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=57
+            - generic [ref=e1818]: ZAZ
+            - generic [ref=e1819]: (23)
+          - link "Zaza (3)" [ref=e1820] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=851
+            - generic [ref=e1821]: Zaza
+            - generic [ref=e1822]: (3)
+          - link "ZEEKR (91)" [ref=e1823] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=403
+            - generic [ref=e1824]: ZEEKR
+            - generic [ref=e1825]: (91)
+          - link "ZIL (63)" [ref=e1826] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=85
+            - generic [ref=e1827]: ZIL
+            - generic [ref=e1828]: (63)
+          - link "Zonsen (6)" [ref=e1829] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=285
+            - generic [ref=e1830]: Zonsen
+            - generic [ref=e1831]: (6)
+          - link "Zontes (8)" [ref=e1832] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=143
+            - generic [ref=e1833]: Zontes
+            - generic [ref=e1834]: (8)
+          - link "ZX Auto (1)" [ref=e1835] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=217
+            - generic [ref=e1836]: ZX Auto
+            - generic [ref=e1837]: (1)
+          - link "ZXMCO (1)" [ref=e1838] [cursor=pointer]:
+            - /url: /autos?q%5Bmake%5D%5B%5D=475
+            - generic [ref=e1839]: ZXMCO
+            - generic [ref=e1840]: (1)
+      - generic [ref=e1842]:
+        - link "Qaydalar" [ref=e1843] [cursor=pointer]:
+          - /url: /pages/rules
+        - link "Qanun" [ref=e1844] [cursor=pointer]:
+          - /url: /pages/law
+        - link "İstifadəçi razılaşması" [ref=e1845] [cursor=pointer]:
+          - /url: /pages/terms-and-conditions
+        - link "Məxfilik siyasəti" [ref=e1846] [cursor=pointer]:
+          - /url: /pages/privacy
+        - link "Sifarişli avtomobil alan alıcı üçün tövsiyələr" [ref=e1847] [cursor=pointer]:
+          - /url: /pages/order-recommendations
+        - link "Reklam yerləşdirin" [ref=e1848] [cursor=pointer]:
+          - /url: https://ads.digit.az?utm_source=turboaz&utm_medium=referral&utm_campaign=turboaz_referral&utm_content=footer_alt
+      - generic [ref=e1850]:
+        - generic [ref=e1851]: Saytın Administrasiyası reklam bannerlərinin və yerləşdirilmiş elanların məzmununa görə məsuliyyət daşımır.
+        - generic [ref=e1852]:
+          - generic [ref=e1853]: "2006-2026 Digital Classifieds MMC. VÖEN: 1405631661"
+          - link "Mobil versiyası" [ref=e1854] [cursor=pointer]:
+            - /url: /?mobile_site=1
+  - iframe [ref=e1855]:
+    
+  - iframe [ref=e1856]:
+    
+```
