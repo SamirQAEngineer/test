@@ -7,6 +7,11 @@ test('WebPageTest.org saytı testi', async ({ page }) => {
   // Sayfanın tam yüklənməsini gözləyirik
   await page.waitForLoadState('load');  // Sayfa tam yüklənməlidir
 
+  // Başlığın dəyişməsini gözləyirik
+  await page.waitForFunction(() => document.title.includes('WebPageTest'), {
+    timeout: 60000,  // 60 saniyə gözləyirik
+  });
+
   // Sayt başlığını alırıq
   const title = await page.title();
   console.log('Sayt başlığı: ', title);  // Başlığı yoxlayın
