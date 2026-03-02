@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1393","Google opens and title is correct","","2026-03-02","passed","2026-03-02","","booking.spec.js","",""
+"","1231","Google opens and title is correct","test1","2026-03-02","passed","2026-03-02","","tests/booking.spec.js","",""
