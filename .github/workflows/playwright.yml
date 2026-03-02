@@ -11,33 +11,40 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      # 1. GitHub repozitoriyasını klonlamaq
+      - uses: actions/checkout@v2
 
+      # 2. Node.js 18 versiyasını qurmaq
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v2
         with:
           node-version: '18'
-          cache: npm
 
+      # 3. Növbəti addımda dependencies (npm) quraşdırılır
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm install
+          npm install --save-dev allure-playwright
 
-      - name: Install Playwright browsers
-        run: npx playwright install --with-deps
-
+      # 4. Playwright testlərini işlətmək
       - name: Run Playwright tests
-        run: npx playwright test
+        run: |
+          npx playwright test --reporter=allure-playwright
 
-      - name: Generate Allure report
-        if: always()
-        run: npx allure generate allure-results --clean -o allure-report
+      # 5. Allure reportu yaratmaq
+      - name: Generate Allure Report
+        run: |
+          npx allure generate allure-results --clean -o allure-report
 
-      - name: Upload Allure report artifact
-        if: always()
+      # 6. Allure reportu artifact kimi saxlamaq
+      - name: Upload Allure Report as an artifact
         uses: actions/upload-artifact@v4
         with:
           name: allure-report
           path: allure-report/
+
+      # 7. Nəticəni GitHub Actions-da açmaq üçün: 
+      - name: View Allure Report
+        run: |
+          npx allure open allure-report
