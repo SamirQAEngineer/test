@@ -15,11 +15,11 @@ jobs:
       # 1. GitHub repozitoriyasını klonlamaq
       - uses: actions/checkout@v2
 
-      # 2. Node.js qurulması
+      # 2. Node.js 18 versiyasını qurmaq
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '18'  # Node.js versiyasını 18 olaraq qeyd et
 
       # 3. Növbəti addımda dependencies (npm) quraşdırılır
       - name: Install dependencies
@@ -38,7 +38,7 @@ jobs:
 
       # 6. Allure reportu artifact kimi saxlamaq (Yeni versiya - v4)
       - name: Upload Allure Report as an artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: allure-report
           path: allure-report/
