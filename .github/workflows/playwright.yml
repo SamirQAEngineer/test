@@ -39,7 +39,7 @@ jobs:
 
       # 6. Allure reportu artifact kimi saxlamaq
       - name: Upload Allure Report as an artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3  # V3 versiyası ilə dəyişdik
         with:
           name: allure-report
           path: allure-report/
@@ -51,7 +51,7 @@ jobs:
 
       # 8. Video və screenshot-ları artifact kimi saxlamaq
       - name: Upload Video and Screenshots as artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # V3 versiyası ilə dəyişdik
         with:
           name: playwright-assets
           path: |
