@@ -27,31 +27,36 @@ jobs:
           npm install
           npm install --save-dev allure-playwright
 
-      # 4. Playwright testlərini işlətmək
+      # 4. Playwright browserlərini yükləmək
+      - name: Install Playwright Browsers
+        run: |
+          npx playwright install  # Playwright browserlərini yükləyirik
+
+      # 5. Playwright testlərini işlətmək
       - name: Run Playwright tests
         run: |
           npx playwright test --reporter=allure-playwright
 
-      # 5. Allure reportu yaratmaq
+      # 6. Allure reportu yaratmaq
       - name: Generate Allure Report
         run: |
           npx allure generate allure-results --clean -o allure-report
 
-      # 6. Allure reportu artifact kimi saxlamaq
+      # 7. Allure reportu artifact kimi saxlamaq
       - name: Upload Allure Report as an artifact
-        uses: actions/upload-artifact@v4  # V4 versiyası ilə dəyişdik
+        uses: actions/upload-artifact@v4
         with:
           name: allure-report
           path: allure-report/
 
-      # 7. Nəticəni GitHub Actions-da açmaq üçün
+      # 8. Nəticəni GitHub Actions-da açmaq üçün
       - name: View Allure Report
         run: |
           npx allure open allure-report
 
-      # 8. Video və screenshot-ları artifact kimi saxlamaq
+      # 9. Video və screenshot-ları artifact kimi saxlamaq
       - name: Upload Video and Screenshots as artifacts
-        uses: actions/upload-artifact@v4  # V4 versiyası ilə dəyişdik
+        uses: actions/upload-artifact@v4
         with:
           name: playwright-assets
           path: |
